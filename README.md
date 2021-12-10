@@ -1,4 +1,4 @@
-<p align="center"><img src="https://pic3.zhimg.com/v2-c5466f07fd7242632f1cf7ce19d722d2_xll.jpg"></p>
+<p align="center"><img src="https://pic3.zhimg.com/v2-c5466f07fd7242632f1cf7ce19d722d2_xll.jpg" alt="1" style="zoom:33%;"></p>
 
 # `datawhale beamer` (LaTeX)
 [datawhale](http://www.datawhale.club) Beamer (LaTeX) 模板（非官方版）
