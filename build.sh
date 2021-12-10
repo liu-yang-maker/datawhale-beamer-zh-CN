@@ -1,7 +1,7 @@
 #! /bin/sh
 #
 # build.sh
-# Copyright (C) 2019 Guowei Chen <icgw@outlook.com>
+# Copyright (C) 2021 Yang Liu <liuyang2020@amss.ac.cn>
 #
 # Distributed under terms of the GPL license.
 #
